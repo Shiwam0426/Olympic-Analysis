@@ -1,0 +1,1 @@
+x['Total']=x['Gold']+x['Silver']+x['Bronze']
